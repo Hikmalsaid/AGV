@@ -1,2 +1,2 @@
 # AGV
-AGV denganpath tracing menggunakan sensor warna dan sensor IR
+AGV dengan path tracing menggunakan sensor warna dan sensor IR
